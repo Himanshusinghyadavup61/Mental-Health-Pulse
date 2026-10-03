@@ -172,10 +172,9 @@ It should print `1.6.1` for this artifact.
 
 ## 👨‍💻 Author
 
-**Abhinay Srivastava**
+**Himanshu Singh Yadav**
 
-- GitHub: https://github.com/abhina-y
-- LinkedIn: https://www.linkedin.com/in/abhinay-srivastava-bb0206290/
+- GitHub: https://github.com/Himanshusinghyadavup61
 
 ---
 
